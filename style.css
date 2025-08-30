@@ -1,0 +1,279 @@
+i{
+    color: gray;
+    margin-top: 11px;
+}
+.container-fluid{
+    background-color: rgba(0, 0, 0, 0.897);
+}
+.navbar-nav{
+    margin-left: 400px;
+}
+.a1{
+  margin-left: 180px;
+}
+.li2{
+  margin-top: -32px;
+}
+.homepage1{
+    background-color: black;
+    height: 750px;
+    margin-top: 50px;
+}
+  .hero {
+      padding: 80px 20px;
+      position: relative;
+      margin-top: -500px;
+    }
+.navbar{
+  width: 100%;
+}
+    .bubble {
+      background-color: #0071e3;
+      color: white;
+      font-size: 28px;
+      font-weight: bold;
+      border-radius: 25px;
+      display: inline-block;
+      padding: 20px 30px;
+      margin: 10px;
+      max-width: 500px;
+      align-items: center;
+      margin-left: 700px;
+    }
+
+    .sub-bubble {
+      background-color: #0060c9;
+      font-size: 18px;
+      border-radius: 15px;
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px 0;
+      color: white;
+      margin-left: 720px;
+      align-items: center;
+    }
+
+    .shop-btn {
+      margin-top: 20px;
+      padding: 10px 25px;
+      border: 1px solid #0071e3;
+      border-radius: 20px;
+      background: none;
+      color: #0071e3;
+      cursor: pointer;
+      font-size: 16px;
+      margin-left: 740px;
+      align-items: center;
+    }
+
+    .shop-btn:hover {
+      background-color: #0071e3;
+      color: white;
+    }
+
+    .product {
+      flex: 1;
+      width: 900px;
+      height: 600px;
+      padding: 100px;
+      text-align: center;
+      background: #009be360;
+    }
+
+    .product h2 {
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .product span {
+      color: #0071e3;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .product p {
+      margin: 10px 0;
+      font-size: 18px;
+      color: #333;
+    }
+
+    .buttons {
+      margin-top: 20px;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      border-radius: 20px;
+      border: 1px solid #0071e3;
+      margin: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .btn-primary {
+      background: #000fe3;
+      color: #fff;
+      border: none;
+    }
+
+    .btn-primary:hover {
+      background: #0003b5;
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #002ae3;
+    }
+
+    .btn-outline:hover {
+      background: #0004e3;
+      color: #fff;
+    }
+
+    .product img {
+      margin-top: 30px;
+      width: 60%;
+      max-width: 400px;
+    }
+
+    .note {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #666;
+    }
+ .product1 {
+      flex: 1;
+      width: 1000px;
+      height: 600px;
+      padding: 60px 20px;
+      text-align: center;
+      background: #009be360;
+      margin-left: 910px ;
+      margin-top: -600px;
+    }
+.hero-sectionhero-watch{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -100px;
+    align-items: center;
+    height: 500px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    width: 60%;
+}
+
+/* Specific Hero Sections */
+.hero-watch {
+    background-color:white;
+}
+.buttons {
+      margin-top: 20px;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      border-radius: 20px;
+      border: 1px solid #0071e3;
+      margin: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .btn-primary {
+      background: #000fe3;
+      color: #fff;
+      border: none;
+      margin-left: -30px;
+    }
+
+    .btn-primary:hover {
+      background: #0003b5;
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #002ae3;
+    }
+
+    .btn-outline:hover {
+      background: #0004e3;
+      color: #fff;
+    }
+.hero-sectionhero-airpods{
+    display: flex;
+    margin-left: 1300px;
+    margin-top: -400px;
+    align-items: center;
+    height: 600px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    width: 30%;
+}
+
+/* Specific Hero Sections */
+.hero-content {
+    background-color:none;
+}
+.buttons {
+      margin-top: 20px;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      border-radius: 20px;
+      border: 1px solid #0071e3;
+      margin: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .btn-primary {
+      background: #000fe3;
+      color: #fff;
+      border: none;
+      margin-left: -10px;
+    }
+
+    .btn-primary:hover {
+      background: #0003b5;
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #002ae3;
+    }
+
+    .btn-outline:hover {
+      background: #0004e3;
+      color: #fff;
+    }
+    .tradein{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -400px;
+    align-items: center;
+    height: 800px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    width: 60%;
+
+
+    }
+  .haris{
+    display: flex;
+    margin-left: 1300px;
+    margin-top: -740px;
+    align-items: center;
+    height: 600px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    color:black;
+    width: 30%;
+}
