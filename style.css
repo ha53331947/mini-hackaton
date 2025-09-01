@@ -3,7 +3,7 @@ i{
     margin-top: 11px;
 }
 .container-fluid{
-    background-color: rgba(0, 0, 0, 0.897);
+    background-color:white;
 }
 .navbar-nav{
     margin-left: 400px;
@@ -23,6 +23,7 @@ i{
       padding: 80px 20px;
       position: relative;
       margin-top: -500px;
+      position: static;
     }
 .navbar{
   width: 100%;
@@ -162,6 +163,7 @@ i{
     background-position: center;
     color: black;
     width: 60%;
+    position: static;
 }
 
 /* Specific Hero Sections */
@@ -207,7 +209,7 @@ i{
     margin-top: -400px;
     align-items: center;
     height: 600px;
-    position: relative;
+    position: static;
     background-size: cover;
     background-position: center;
     color: white;
@@ -257,7 +259,7 @@ i{
     margin-top: -400px;
     align-items: center;
     height: 800px;
-    position: relative;
+    position: static;
     background-size: cover;
     background-position: center;
     color: black;
@@ -276,4 +278,18 @@ i{
     background-position: center;
     color:black;
     width: 30%;
+}
+.carouselitem{
+  width: 1400px;
+  margin-left: 250px;
+  margin-top: 120px;
+  position: static;
+}
+.haris{
+  position: static;
+}
+.haris1{
+  color: gray;
+  font-size: 15px;
+  margin-left: 350px;
 }
